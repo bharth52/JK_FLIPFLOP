@@ -1,3 +1,4 @@
+# aim
 # JK_FLIPFLOP
 ![image](https://github.com/RESMIRNAIR/JK_FLIPFLOP/assets/154305926/094e9d55-5f30-4984-90b9-dd51d5297974)
 # Circuit Diagram
